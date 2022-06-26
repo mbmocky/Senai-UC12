@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MOISES-PC\\Desktop\\UC12\\Senai-UC12\\Cadastro Pessoa FS1\\Cadastro Pessoa FS1.csproj",
+      "projectUniqueName": "C:\\Users\\MOISES-PC\\Desktop\\UC12\\Senai-UC12\\SA2ER2\\Cadastro Pessoa FS1\\Cadastro Pessoa FS1.csproj",
       "projectName": "Cadastro Pessoa FS1",
-      "projectPath": "C:\\Users\\MOISES-PC\\Desktop\\UC12\\Senai-UC12\\Cadastro Pessoa FS1\\Cadastro Pessoa FS1.csproj",
+      "projectPath": "C:\\Users\\MOISES-PC\\Desktop\\UC12\\Senai-UC12\\SA2ER2\\Cadastro Pessoa FS1\\Cadastro Pessoa FS1.csproj",
       "packagesPath": "C:\\Users\\MOISES-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MOISES-PC\\Desktop\\UC12\\Senai-UC12\\Cadastro Pessoa FS1\\obj\\",
+      "outputPath": "C:\\Users\\MOISES-PC\\Desktop\\UC12\\Senai-UC12\\SA2ER2\\Cadastro Pessoa FS1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
